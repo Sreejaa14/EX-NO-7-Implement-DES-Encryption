@@ -42,7 +42,8 @@ int main()
 
 
 ## Output:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fc288f9-3121-4314-964f-86bc4865b0e2" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc4cb08f-5d1a-46dd-a633-9200cdbeefb0" />
 
 
 ## Result:
